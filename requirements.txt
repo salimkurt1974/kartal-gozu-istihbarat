@@ -1,0 +1,17 @@
+streamlit
+pandas
+plotly
+gnews
+feedparser
+textblob
+deep-translator
+requests
+beautifulsoup4
+fpdf
+newspaper3k
+lxml_html_clean
+arxiv
+scikit-learn
+wordcloud
+matplotlib
+Pillow
